@@ -50,7 +50,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 Navigate to the  directory where you  want to clone this project in your computer.
-Clone this repository to your desired folder:git clone https://github.com/ReX0069/Hello_Microverse-.git
+Clone this repository to your desired folder:git clone [https://github.com/ReX0069/Hello_Microverse-.git](https://github.com/DevKaranJ/Hello-Microverse)
 
 
 ### Install
