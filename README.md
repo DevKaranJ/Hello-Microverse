@@ -7,6 +7,7 @@
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
+  - [Key Features](#key-features)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -32,6 +33,21 @@
 ## 🛠 Built With <a name="built-with"></a>
 - HTML.
 - CSS.
+
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+> The following are the key features of the application.
+
+- **[Linters for HTML and CSS to ensure code quality and style consistency.]**
+- **[Gitignore configuration that ignores the node_modules directory. ]**
+- **[GitHub Flow branching for better collaboration and review. ]**
+- **[Descriptive README file customized to the project.]**
+- **[Multiple file commits, including HTML, CSS, and an ignored test.md file.]**
+- **[Opening a pull request for collaboration and review.]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
@@ -88,7 +104,9 @@ Run it in your local server
 
 
 
-- Setting Up A Professional Github Repository.
+- Add the navigation for the project to navigate over the pages🚀
+- Add some animation style for the project to attract the user's attention 💯
+- Use the semantics tags at the project👌
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -98,7 +116,7 @@ Run it in your local server
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/DevKaranJ/Hello-Microverse/issues).
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
