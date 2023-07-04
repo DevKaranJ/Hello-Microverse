@@ -20,7 +20,7 @@
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
+- [❓ FAQ ](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
@@ -147,7 +147,7 @@ I would like to thank microverse for issuing the project to the students.
 - **[Question 1]**
 [How long did it take you to complete the project?]**
 
-  - [It being a simple project,It took me 2.5 hours ]
+  - [It being a simple project,It took me 1 hours ]
 
 - **[Question 2]**
 [Talk about your biggest challenge in the project. What happened? How did you manage it?]
