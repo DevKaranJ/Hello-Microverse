@@ -78,7 +78,7 @@ Run it in your local server
 
 👤 **Karan Joshi**
 
-- GitHub: [@githubhandle](https://github.com/ReX0069)
+- GitHub: [@githubhandle](https://github.com/DevKaranJ)
 - Twitter: [@twitterhandle](https://twitter.com/RX0069)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/dev-karan-j/)
 
@@ -124,7 +124,7 @@ I would like to thank microverse for issuing the project to the students.
 
 <!-- FAQ (optional) -->
 
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
+## ❓ FAQ <a name="faq"></a>
 
 - **[Question 1]**
 [How long did it take you to complete the project?]**
